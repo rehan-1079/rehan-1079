@@ -138,19 +138,6 @@ Coursework and academic project experience spanning C++, SQL, Object-Oriented Pr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rehan-1079&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Rehan's GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-1079&layout=compact&hide_border=true&theme=default" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-1079&hide_border=true&theme=default" alt="GitHub Streak">
-</p>
-
----
-
 ## 🌐 Freelance
 
 Building my freelance presence on **Fiverr** under [`rehan_codelab`](https://www.fiverr.com/rehan_codelab), offering web development and full-stack development services.
