@@ -93,16 +93,11 @@ A full-stack platform designed for an AC service business (AC technician/repair)
 
 ---
 
-### 🎓 Student Management System
-An academic software engineering project built in **C++** with a modular, layered design across ~14 classes.
+### 🎓 [Student Management System](https://github.com/rehan-1079/Student-Management-System-NodeJS)
+A student management system built with **Node.js**, handling student records, attendance, and results.
 
-- Login/authentication system
-- Dynamic student registration
-- Attendance management & CGPA calculation
-- Scholarship eligibility logic
-- Backup and restore functionality
-
-**Tech:** C++
+**Tech:** Node.js
+🔗 [Repository](https://github.com/rehan-1079/Student-Management-System-NodeJS)
 
 ---
 
